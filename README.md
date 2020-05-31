@@ -1,5 +1,9 @@
 # RockPaperScissors
-Rock-paper-scissors game with different levels of AI opponents. The main purpose of this project was to try out the new SwiftUI framework.
+Rock-paper-scissors game with different levels of AI opponents. 
+
+Main objectives:
+- trying out the new SwiftUI framework
+- exploring different algorithms for the AI opponent (inspired by the legendary http://www.lintukoto.net/viihde/kps/index.php?valinta=3)
 
 ![](rockpaperscissors.gif)
 
