@@ -12,7 +12,7 @@ struct ContentView : View {
     
     @ObservedObject var game = GameEngine()
     
-    @State private var player2UsingAI = true
+    @State private var player2UsingAI = true //Local multiplayer = WIP
     @State private var aiDifficulty = 5
     @State private var showRestartConfirmation = false
     
